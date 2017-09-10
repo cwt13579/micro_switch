@@ -1,0 +1,83 @@
+<com.bell.microswitch.common.MessageInfo>
+  <!--接口提供平台 -->
+
+  <reqMsgTemplate><![CDATA[
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://webservices.ccservice.isprint.com/">
+      <soapenv:Header />
+      <soapenv:Body>
+        <web:changeLZBIdPW>
+          <CCServiceInObj>
+            <client></client>
+            <ip></ip>
+            <jsonObj>{
+            		"userId" : "$!params.userId",
+            		"sessionToken" : "$!params.sessionToken",
+            		"oldPwd" : "$!params.oldPwd",
+            		"newPwd":"$!params.newPwd",
+            		"confirmNewPwd":"$!params.confirmNewPwd"
+            	}
+            </jsonObj>
+            <latitude></latitude>
+            <longitude></longitude>
+            <macAddress></macAddress>
+            <sessionToken></sessionToken>
+            <sign></sign>
+            <systemName>lzbankportal</systemName>
+          </CCServiceInObj>
+        </web:changeLZBIdPW>
+      </soapenv:Body>
+    </soapenv:Envelope>
+  ]]></reqMsgTemplate>
+  <!--响应封装模板======================================================================================= -->
+	<respMsgTemplate><![CDATA[
+	  		<?xml version="1.0" encoding="utf-8"?>
+			<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+				version="1.0">
+				<xsl:output method="text" omit-xml-declaration="yes" />
+				<xsl:template match="/">
+					<xsl:text>{"resultCode":"0",</xsl:text>
+					<xsl:choose>
+						<xsl:when test="//return/errorCode = '1700'">
+							<xsl:text>"logicCode":"0","errorCode":"1700","msg":"正常修改"</xsl:text>
+						</xsl:when>
+						<xsl:when test="//return/errorCode = '1701'">
+							<xsl:text>"logicCode":"1","errorCode":"1701","msg":"修改密码时旧密码错误"</xsl:text>
+						</xsl:when>
+						<xsl:when test="//return/errorCode = '1702'">
+							<xsl:text>"logicCode":"1","errorCode":"1702","msg":"不符合密码策略"</xsl:text>
+						</xsl:when>
+						<xsl:when test="//return/errorCode = '1703'">
+							<xsl:text>"logicCode":"1","errorCode":"1703","msg":"密码过于简单"</xsl:text>
+						</xsl:when>
+						<xsl:when test="//return/errorCode = '1704'">
+							<xsl:text>"logicCode":"1","errorCode":"1704","msg":"旧密码不能为空"</xsl:text>
+						</xsl:when>
+						<xsl:when test="//return/errorCode = '1705'">
+							<xsl:text>"logicCode":"1","errorCode":"1705","msg":"新密码不能为空"</xsl:text>
+						</xsl:when>
+						<xsl:when test="//return/errorCode = '1706'">
+							<xsl:text>"logicCode":"1","errorCode":"1706","msg":"确认密码不能为空"</xsl:text>
+						</xsl:when>
+						<xsl:when test="//return/errorCode = '1708'">
+							<xsl:text>"logicCode":"1","errorCode":"1708","msg":"修改失败，确认密码不匹配"</xsl:text>
+						</xsl:when>
+						<xsl:when test="//return/errorCode = '1709'">
+							<xsl:text>"logicCode":"1","errorCode":"1709","msg":"使用过的密码"</xsl:text>
+						</xsl:when>
+						<xsl:when test="//return/errorCode = '1710'">
+							<xsl:text>"logicCode":"1","errorCode":"1710","msg":"session过期"</xsl:text>
+						</xsl:when>
+						<xsl:when test="//return/errorCode = '1711'">
+							<xsl:text>"logicCode":"1","errorCode":"1711","msg":"不能改为原密码或新密码不符合密码策略"</xsl:text>
+						</xsl:when>
+						<xsl:when test="//return/errorCode = '1799'">
+							<xsl:text>"logicCode":"1","errorCode":"1799","msg":"其他错误"</xsl:text>
+						</xsl:when>
+					</xsl:choose>
+					<xsl:text>}</xsl:text>
+				</xsl:template>
+			</xsl:stylesheet>
+	  ]]></respMsgTemplate>
+ 	<!-- 成功模拟结果 -->
+ 	 
+</com.bell.microswitch.common.MessageInfo>

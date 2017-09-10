@@ -1,0 +1,13 @@
+插入图片步骤：
+一、文档设置
+1 查看demo word文档 template.docx
+  在插入图片处 插入一张图片（任意）
+2 选择第1步中插入图片  ，点击插入 书签  命名为value6
+
+二、代码（demo 可自己封装）
+ //插入图片
+			 metadata.addFieldAsImage("value6",NullImageBehaviour.RemoveImageTemplate);
+			 report.setFieldsMetadata(metadata);
+			 IImageProvider value6 = new FileImageProvider(new File("D:/pictures/titan-elasticsearch.png"));
+			 value6.setSize(400f, 400f);
+	    	 context.put("value6", value6);

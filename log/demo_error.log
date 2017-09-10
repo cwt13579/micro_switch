@@ -1,0 +1,95 @@
+[ERROR] 2017-05-25 10:23:27 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 10:23:28 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 10:23:37 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 10:23:42 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 10:23:42 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 10:23:42 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 10:23:42 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 10:24:08 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 10:24:08 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 10:24:08 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 10:24:08 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 10:24:08 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 10:24:08 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 10:24:08 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 10:43:34 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 10:45:37 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 11:25:38 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 11:25:38 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)
+[ERROR] 2017-05-25 12:12:42 com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:57) Error occurred during processing of message.
+java.lang.Exception: END_OF_FILE
+	at com.nio.reactor.client.TIOStreamTransport.read(TIOStreamTransport.java:72)
+	at com.nio.reactor.tserver.TSimpleServer.serve(TSimpleServer.java:48)
+	at com.nio.reactor.test.TServerTest.main(TServerTest.java:23)

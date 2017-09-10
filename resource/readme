@@ -1,0 +1,8 @@
+接口 service机制 OPCaller?事务
+   OperationContext oc = new OperationContext();
+   OPCaller.call(LZBEbankSwitchOperation.ID, oc);
+缓存报文 google guava redis
+心跳机制 健康状况
+监控机制 调用时间
+分布式 zookeeper  springcloud
+

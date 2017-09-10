@@ -1,0 +1,81 @@
+[ERROR] 2017-03-14 17:19:40 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+[ERROR] 2017-03-14 17:23:00 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:117)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[ERROR] 2017-03-14 17:40:59 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:117)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[ERROR] 2017-03-14 17:45:07 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:117)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[ERROR] 2017-03-14 17:46:44 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:117)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[ERROR] 2017-03-14 20:42:51 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:128)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[ERROR] 2017-03-14 20:47:49 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:128)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[ERROR] 2017-03-14 20:49:16 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:128)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[ERROR] 2017-03-14 20:56:10 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:128)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[ERROR] 2017-03-14 21:06:50 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:128)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[ERROR] 2017-03-14 21:10:00 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:130)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)

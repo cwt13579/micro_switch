@@ -1,0 +1,819 @@
+[INFO] 2017-03-14 10:57:23 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 10:57:23 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 10:57:23 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 10:57:23 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 10:57:23 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 10:57:23 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 10:57:23 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 10:57:23 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:47) 服务开启中
+[INFO] 2017-03-14 10:57:23 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启完成
+[INFO] 2017-03-14 11:57:52 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 11:57:52 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 11:57:53 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 11:57:53 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 11:57:53 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 11:57:53 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 11:57:53 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 11:57:53 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 11:57:53 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 11:57:53 com.bell.microswitch.nioserver.Server.run(Server.java:73) Server started ...
+[INFO] 2017-03-14 11:57:53 com.bell.microswitch.nioserver.Server.run(Server.java:74) Server listening on port: 8081
+[INFO] 2017-03-14 14:52:40 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 14:52:40 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 14:52:41 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 14:52:41 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 14:52:41 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 14:52:41 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 14:52:41 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 14:52:41 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 14:52:41 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 14:52:41 com.bell.microswitch.nioserver.Server.run(Server.java:73) Server started ...
+[INFO] 2017-03-14 14:52:41 com.bell.microswitch.nioserver.Server.run(Server.java:74) Server listening on port: 8081
+[INFO] 2017-03-14 14:59:26 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 14:59:26 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 14:59:26 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 14:59:26 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 14:59:26 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 14:59:26 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 14:59:26 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 14:59:26 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 14:59:26 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 14:59:26 com.bell.microswitch.nioserver.Server.run(Server.java:73) Server started ...
+[INFO] 2017-03-14 14:59:26 com.bell.microswitch.nioserver.Server.run(Server.java:74) Server listening on port: 8081
+[INFO] 2017-03-14 15:20:10 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 15:20:10 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 15:20:10 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 15:20:10 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 15:20:10 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 15:20:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 15:20:15 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 15:20:15 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 15:20:15 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 15:20:15 com.bell.microswitch.nioserver.Server.run(Server.java:73) Server started ...
+[INFO] 2017-03-14 15:20:15 com.bell.microswitch.nioserver.Server.run(Server.java:74) Server listening on port: 8081
+[INFO] 2017-03-14 15:25:46 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 15:25:46 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 15:25:46 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 15:25:46 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 15:25:46 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 15:25:46 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 15:25:46 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 15:25:46 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 15:25:46 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 15:25:46 com.bell.microswitch.nioserver.Server.run(Server.java:73) Server started ...
+[INFO] 2017-03-14 15:25:46 com.bell.microswitch.nioserver.Server.run(Server.java:74) Server listening on port: 8081
+[INFO] 2017-03-14 15:28:47 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 15:28:47 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 15:28:47 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 15:28:47 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 15:28:47 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 15:28:47 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 15:28:47 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 15:28:47 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 15:28:47 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 15:28:47 com.bell.microswitch.nioserver.Server.run(Server.java:73) Server started ...
+[INFO] 2017-03-14 15:28:47 com.bell.microswitch.nioserver.Server.run(Server.java:74) Server listening on port: 8081
+[INFO] 2017-03-14 15:31:17 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 15:31:17 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 15:31:17 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 15:31:17 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 15:31:17 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 15:31:17 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 15:31:17 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 15:31:17 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 15:31:17 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 15:31:17 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 15:31:17 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 15:31:24 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:51) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 15:31:24 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:31) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 15:35:33 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 15:35:33 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 15:35:33 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 15:35:33 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 15:35:33 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 15:35:33 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 15:35:33 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 15:35:33 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 15:35:33 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 15:35:33 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 15:35:33 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 15:36:37 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:51) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 15:36:37 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:31) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 15:43:02 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:51) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 15:43:02 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:31) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 15:44:33 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 15:44:33 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 15:44:33 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 15:44:33 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 15:44:33 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 15:44:33 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 15:44:33 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 15:44:33 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 15:44:33 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 15:44:33 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 15:44:33 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 15:44:54 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:51) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 15:44:54 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:31) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 15:45:32 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:51) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 15:45:32 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:31) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 15:47:41 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:51) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 15:47:41 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:31) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 15:55:10 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 15:55:10 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 15:55:10 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 15:55:10 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 15:55:10 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 15:55:10 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 15:55:10 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 15:55:10 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 15:55:10 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 15:55:10 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 15:55:10 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 15:55:17 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 15:55:17 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:31) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 15:55:35 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 15:55:44 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:31) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 15:56:25 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 15:56:28 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:31) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 15:57:57 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:31) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 17:18:44 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 17:18:44 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 17:18:44 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 17:18:44 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 17:18:44 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 17:18:44 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 17:18:44 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 17:18:44 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 17:18:44 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 17:18:44 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 17:18:44 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 17:19:07 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 17:19:18 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[ERROR] 2017-03-14 17:19:40 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+[INFO] 2017-03-14 17:19:45 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 17:21:38 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 17:21:43 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[ERROR] 2017-03-14 17:23:00 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:117)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[INFO] 2017-03-14 17:23:25 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 17:28:11 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 17:28:11 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 17:30:46 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 17:30:46 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 17:30:59 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 17:30:59 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 17:30:59 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 17:30:59 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 17:30:59 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 17:30:59 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 17:30:59 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 17:30:59 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 17:30:59 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 17:38:48 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 17:38:48 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 17:38:59 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 17:38:59 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 17:38:59 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 17:38:59 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 17:38:59 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 17:38:59 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 17:38:59 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 17:38:59 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 17:38:59 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 17:39:17 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 17:39:20 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 17:40:49 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[ERROR] 2017-03-14 17:40:59 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:117)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[INFO] 2017-03-14 17:41:03 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 17:45:01 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 17:45:01 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 17:45:01 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 17:45:01 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 17:45:01 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 17:45:01 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 17:45:01 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 17:45:01 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 17:45:01 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 17:45:01 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 17:45:01 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 17:45:07 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 17:45:07 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 17:45:07 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[ERROR] 2017-03-14 17:45:07 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:117)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[INFO] 2017-03-14 17:45:07 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 17:45:24 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 17:45:29 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 17:45:39 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[ERROR] 2017-03-14 17:46:44 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:117)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[INFO] 2017-03-14 17:46:46 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 20:35:59 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 20:35:59 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 20:36:00 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 20:36:00 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 20:36:00 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 20:36:00 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 20:36:00 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 20:36:00 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 20:36:00 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 20:36:00 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 20:36:00 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 20:36:34 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 20:36:38 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 20:40:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 20:40:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 20:40:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 20:40:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 20:40:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 20:40:16 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 20:40:16 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 20:40:16 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 20:40:16 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 20:40:16 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 20:40:16 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 20:40:28 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 20:40:30 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 20:41:53 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[ERROR] 2017-03-14 20:42:51 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:128)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[INFO] 2017-03-14 20:42:55 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 20:46:47 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 20:46:47 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 20:46:47 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 20:46:47 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 20:46:47 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 20:46:47 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 20:46:47 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 20:46:47 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 20:46:47 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 20:46:47 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 20:46:47 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 20:47:03 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 20:47:05 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[ERROR] 2017-03-14 20:47:49 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:128)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[INFO] 2017-03-14 20:49:04 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 20:49:04 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 20:49:04 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 20:49:04 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 20:49:04 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 20:49:04 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 20:49:04 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 20:49:04 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 20:49:04 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 20:49:04 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 20:49:04 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 20:49:15 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 20:49:15 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[ERROR] 2017-03-14 20:49:16 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:128)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[INFO] 2017-03-14 20:49:16 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 20:56:01 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 20:56:01 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 20:56:02 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 20:56:02 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 20:56:02 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 20:56:02 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 20:56:02 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 20:56:02 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 20:56:02 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 20:56:02 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 20:56:02 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 20:56:10 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 20:56:10 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 20:56:10 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[ERROR] 2017-03-14 20:56:10 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:128)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[INFO] 2017-03-14 20:56:10 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 21:06:35 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 21:06:35 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 21:06:35 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 21:06:35 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 21:06:35 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 21:06:35 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 21:06:35 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 21:06:35 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 21:06:35 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 21:06:35 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 21:06:35 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 21:06:50 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 21:06:50 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 21:06:50 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[ERROR] 2017-03-14 21:06:50 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:128)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[INFO] 2017-03-14 21:06:50 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 21:07:55 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 21:07:55 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 21:07:55 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 21:07:55 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 21:07:55 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 21:07:55 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 21:07:55 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 21:07:55 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 21:07:55 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 21:07:55 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 21:07:55 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 21:08:05 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 21:08:06 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 21:08:20 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[INFO] 2017-03-14 21:09:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 21:09:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 21:09:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 21:09:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 21:09:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 21:09:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 21:09:15 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 21:09:15 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 21:09:15 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 21:09:15 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 21:09:15 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 21:09:26 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 21:09:27 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 21:09:36 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[ERROR] 2017-03-14 21:10:00 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:55) ServerHandler Fail
+java.lang.Exception: SY,999999,ClientChannelInterceptor doPostRequest FailcharsetName
+	at com.bell.buss.interceptors.ServerChannelInterceptor.doPostException(ServerChannelInterceptor.java:130)
+	at com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:87)
+	at com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:53)
+	at com.bell.microswitch.nioserver.Notifier.fireOnRead(Notifier.java:61)
+	at com.bell.microswitch.nioserver.Reader.read(Reader.java:101)
+	at com.bell.microswitch.nioserver.Reader.run(Reader.java:50)
+[INFO] 2017-03-14 21:10:05 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 21:13:24 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 21:13:24 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 21:13:25 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 21:13:25 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 21:13:25 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 21:13:25 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 21:13:25 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 21:13:25 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 21:13:25 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 21:13:25 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 21:13:25 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 21:13:29 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 21:13:29 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 21:13:30 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[INFO] 2017-03-14 21:13:30 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:74) Server RspMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?>
+       <CERes>
+	<comm_head>
+		<ver_no>001</ver_no>
+		<bank_id></bank_id>
+		<snd_chnl_no>29</snd_chnl_no>
+		<rcv_chnl_no>23</rcv_chnl_no>
+		<ext_txn_no/>
+		<chnl_dt>20130722</chnl_dt>
+		<host_dt>20130722</host_dt>
+		<chnl_tm>010101</chnl_tm>
+		<host_tm>010102</host_tm>
+		<chnl_seq>000000000002</chnl_seq>
+		<host_seq>000000000001</host_seq>
+		<rsp_no>SUCCESS</rsp_no>
+		<rsp_msg>成功！</rsp_msg>
+	</comm_head>
+	<version></version>
+	<rspcode>0000</rspcode>
+	<rspmsg>sucess</rspmsg>
+	<array>
+		<Purchase>
+			<purchAmount>200000.11</purchAmount>
+			<currency>RMB</currency>
+			<exponent>1</exponent>
+			<trsFeeAmount/>
+		</Purchase>
+	</array>
+</CERes>
+	  ]
+[INFO] 2017-03-14 21:13:30 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:75) ServerChannel process success
+[INFO] 2017-03-14 21:13:30 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 21:13:55 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 21:13:55 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 21:13:55 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[INFO] 2017-03-14 21:13:55 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:74) Server RspMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?>
+       <CERes>
+	<comm_head>
+		<ver_no>001</ver_no>
+		<bank_id></bank_id>
+		<snd_chnl_no>29</snd_chnl_no>
+		<rcv_chnl_no>23</rcv_chnl_no>
+		<ext_txn_no/>
+		<chnl_dt>20130722</chnl_dt>
+		<host_dt>20130722</host_dt>
+		<chnl_tm>010101</chnl_tm>
+		<host_tm>010102</host_tm>
+		<chnl_seq>000000000002</chnl_seq>
+		<host_seq>000000000001</host_seq>
+		<rsp_no>SUCCESS</rsp_no>
+		<rsp_msg>成功！</rsp_msg>
+	</comm_head>
+	<version></version>
+	<rspcode>0000</rspcode>
+	<rspmsg>sucess</rspmsg>
+	<array>
+		<Purchase>
+			<purchAmount>200000.11</purchAmount>
+			<currency>RMB</currency>
+			<exponent>1</exponent>
+			<trsFeeAmount/>
+		</Purchase>
+	</array>
+</CERes>
+	  ]
+[INFO] 2017-03-14 21:13:55 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:75) ServerChannel process success
+[INFO] 2017-03-14 21:13:55 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 21:16:30 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 21:16:30 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 21:16:30 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 21:16:30 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 21:16:30 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 21:16:30 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 21:16:30 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 21:16:30 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 21:16:30 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 21:16:30 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 21:16:30 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 21:16:37 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 21:16:37 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 21:16:37 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[INFO] 2017-03-14 21:16:38 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:74) Server RspMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?>
+       <CERes>
+	<comm_head>
+		<ver_no>001</ver_no>
+		<bank_id></bank_id>
+		<snd_chnl_no>29</snd_chnl_no>
+		<rcv_chnl_no>23</rcv_chnl_no>
+		<ext_txn_no/>
+		<chnl_dt>20130722</chnl_dt>
+		<host_dt>20130722</host_dt>
+		<chnl_tm>010101</chnl_tm>
+		<host_tm>010102</host_tm>
+		<chnl_seq>000000000002</chnl_seq>
+		<host_seq>000000000001</host_seq>
+		<rsp_no>SUCCESS</rsp_no>
+		<rsp_msg>123</rsp_msg>
+	</comm_head>
+	<version></version>
+	<rspcode>0000</rspcode>
+	<rspmsg>sucess</rspmsg>
+	<array>
+		<Purchase>
+			<purchAmount>200000.11</purchAmount>
+			<currency>RMB</currency>
+			<exponent>1</exponent>
+			<trsFeeAmount/>
+		</Purchase>
+	</array>
+</CERes>
+	  ]
+[INFO] 2017-03-14 21:16:38 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:75) ServerChannel process success
+[INFO] 2017-03-14 21:16:38 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 21:18:32 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 21:18:32 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 21:18:32 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[INFO] 2017-03-14 21:18:32 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:74) Server RspMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?>
+       <CERes>
+	<comm_head>
+		<ver_no>001</ver_no>
+		<bank_id></bank_id>
+		<snd_chnl_no>29</snd_chnl_no>
+		<rcv_chnl_no>23</rcv_chnl_no>
+		<ext_txn_no/>
+		<chnl_dt>20130722</chnl_dt>
+		<host_dt>20130722</host_dt>
+		<chnl_tm>010101</chnl_tm>
+		<host_tm>010102</host_tm>
+		<chnl_seq>000000000002</chnl_seq>
+		<host_seq>000000000001</host_seq>
+		<rsp_no>SUCCESS</rsp_no>
+		<rsp_msg>123</rsp_msg>
+	</comm_head>
+	<version></version>
+	<rspcode>0000</rspcode>
+	<rspmsg>sucess</rspmsg>
+	<array>
+		<Purchase>
+			<purchAmount>200000.11</purchAmount>
+			<currency>RMB</currency>
+			<exponent>1</exponent>
+			<trsFeeAmount/>
+		</Purchase>
+	</array>
+</CERes>
+	  ]
+[INFO] 2017-03-14 21:18:32 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:75) ServerChannel process success
+[INFO] 2017-03-14 21:18:32 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 21:19:07 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 21:19:07 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 21:19:07 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[INFO] 2017-03-14 21:19:07 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:74) Server RspMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?>
+       <CERes>
+	<comm_head>
+		<ver_no>001</ver_no>
+		<bank_id></bank_id>
+		<snd_chnl_no>29</snd_chnl_no>
+		<rcv_chnl_no>23</rcv_chnl_no>
+		<ext_txn_no/>
+		<chnl_dt>20130722</chnl_dt>
+		<host_dt>20130722</host_dt>
+		<chnl_tm>010101</chnl_tm>
+		<host_tm>010102</host_tm>
+		<chnl_seq>000000000002</chnl_seq>
+		<host_seq>000000000001</host_seq>
+		<rsp_no>SUCCESS</rsp_no>
+		<rsp_msg>123</rsp_msg>
+	</comm_head>
+	<version></version>
+	<rspcode>0000</rspcode>
+	<rspmsg>sucess</rspmsg>
+	<array>
+		<Purchase>
+			<purchAmount>200000.11</purchAmount>
+			<currency>RMB</currency>
+			<exponent>1</exponent>
+			<trsFeeAmount/>
+		</Purchase>
+	</array>
+</CERes>
+	  ]
+[INFO] 2017-03-14 21:19:07 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:75) ServerChannel process success
+[INFO] 2017-03-14 21:19:07 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 21:21:25 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 21:21:25 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 21:21:25 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 21:21:25 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 21:21:25 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 21:21:25 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 21:21:25 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 21:21:25 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 21:21:25 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 21:21:25 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 21:21:25 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 21:21:29 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 21:21:29 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 21:21:30 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[INFO] 2017-03-14 21:21:30 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:74) Server RspMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?>
+       <CERes>
+	<comm_head>
+		<ver_no>001</ver_no>
+		<bank_id></bank_id>
+		<snd_chnl_no>29</snd_chnl_no>
+		<rcv_chnl_no>23</rcv_chnl_no>
+		<ext_txn_no/>
+		<chnl_dt>20130722</chnl_dt>
+		<host_dt>20130722</host_dt>
+		<chnl_tm>010101</chnl_tm>
+		<host_tm>010102</host_tm>
+		<chnl_seq>000000000002</chnl_seq>
+		<host_seq>000000000001</host_seq>
+		<rsp_no>0000</rsp_no>
+		<rsp_msg>sucess</rsp_msg>
+	</comm_head>
+	<version></version>
+	<rspcode>0000</rspcode>
+	<rspmsg>sucess</rspmsg>
+	<array>
+		<Purchase>
+			<purchAmount>200000.11</purchAmount>
+			<currency>RMB</currency>
+			<exponent>1</exponent>
+			<trsFeeAmount/>
+		</Purchase>
+	</array>
+</CERes>
+	  ]
+[INFO] 2017-03-14 21:21:30 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:75) ServerChannel process success
+[INFO] 2017-03-14 21:21:30 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 21:23:05 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 21:23:05 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 21:23:05 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[INFO] 2017-03-14 21:23:05 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:74) Server RspMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?>
+       <CERes>
+	<comm_head>
+		<ver_no>001</ver_no>
+		<bank_id></bank_id>
+		<snd_chnl_no>29</snd_chnl_no>
+		<rcv_chnl_no>23</rcv_chnl_no>
+		<ext_txn_no/>
+		<chnl_dt>20130722</chnl_dt>
+		<host_dt>20130722</host_dt>
+		<chnl_tm>010101</chnl_tm>
+		<host_tm>010102</host_tm>
+		<chnl_seq>000000000002</chnl_seq>
+		<host_seq>000000000001</host_seq>
+		<rsp_no>0000</rsp_no>
+		<rsp_msg>sucess</rsp_msg>
+	</comm_head>
+	<version></version>
+	<rspcode>0000</rspcode>
+	<rspmsg>sucess</rspmsg>
+	<array>
+		<Purchase>
+			<purchAmount>200000.11</purchAmount>
+			<currency>RMB</currency>
+			<exponent>1</exponent>
+			<trsFeeAmount/>
+		</Purchase>
+	</array>
+</CERes>
+	  ]
+[INFO] 2017-03-14 21:23:05 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:75) ServerChannel process success
+[INFO] 2017-03-14 21:23:05 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 21:25:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 21:25:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 21:25:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 21:25:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 21:25:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 21:25:15 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 21:25:15 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 21:25:15 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 21:25:15 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 21:25:15 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 21:25:15 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 21:25:19 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 21:25:19 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 21:25:20 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[INFO] 2017-03-14 21:25:20 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:74) Server RspMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?>
+       <CERes>
+	<comm_head>
+		<ver_no>001</ver_no>
+		<bank_id></bank_id>
+		<snd_chnl_no>29</snd_chnl_no>
+		<rcv_chnl_no>23</rcv_chnl_no>
+		<ext_txn_no/>
+		<chnl_dt>20130722</chnl_dt>
+		<host_dt>20130722</host_dt>
+		<chnl_tm>010101</chnl_tm>
+		<host_tm>010102</host_tm>
+		<chnl_seq>000000000002</chnl_seq>
+		<host_seq>000000000001</host_seq>
+		<rsp_no>SUCCESS</rsp_no>
+		<rsp_msg>sucess</rsp_msg>
+	</comm_head>
+	<version></version>
+	<rspcode>0000</rspcode>
+	<rspmsg>sucess</rspmsg>
+	<array>
+		<Purchase>
+			<purchAmount>200000.11</purchAmount>
+			<currency>RMB</currency>
+			<exponent>1</exponent>
+			<trsFeeAmount/>
+		</Purchase>
+	</array>
+</CERes>
+	  ]
+[INFO] 2017-03-14 21:25:20 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:75) ServerChannel process success
+[INFO] 2017-03-14 21:25:20 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 21:34:57 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 21:34:57 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 21:34:57 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 21:34:57 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 21:34:57 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 21:34:57 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 21:34:57 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 21:34:57 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 21:34:57 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 21:34:57 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 21:34:57 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 21:35:05 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 21:35:05 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 21:35:05 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[INFO] 2017-03-14 21:35:05 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:74) Server RspMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?>
+       <CERes>
+	<comm_head>
+		<ver_no>001</ver_no>
+		<bank_id></bank_id>
+		<snd_chnl_no>29</snd_chnl_no>
+		<rcv_chnl_no>23</rcv_chnl_no>
+		<ext_txn_no/>
+		<chnl_dt>20130722</chnl_dt>
+		<host_dt>20130722</host_dt>
+		<chnl_tm>010101</chnl_tm>
+		<host_tm>010102</host_tm>
+		<chnl_seq>000000000002</chnl_seq>
+		<host_seq>000000000001</host_seq>
+		<rsp_no>SUCCESS</rsp_no>
+		<rsp_msg>sucess</rsp_msg>
+	</comm_head>
+	<version></version>
+	<rspcode>0000</rspcode>
+	<rspmsg>sucess</rspmsg>
+	<array>
+	    		<Purchase>
+			<purchAmount>200000.11</purchAmount>
+			<currency>RMB</currency>
+			<exponent>1</exponent>
+			<trsFeeAmount/>
+		</Purchase>
+			</array>
+</CERes>
+	  ]
+[INFO] 2017-03-14 21:35:05 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:75) ServerChannel process success
+[INFO] 2017-03-14 21:35:05 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess
+[INFO] 2017-03-14 21:36:12 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-03-14 21:36:12 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-03-14 21:36:12 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-03-14 21:36:12 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-03-14 21:36:12 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-03-14 21:36:12 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-03-14 21:36:12 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-03-14 21:36:12 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-03-14 21:36:12 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-03-14 21:36:12 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-03-14 21:36:12 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
+[INFO] 2017-03-14 21:36:16 com.bell.microswitch.nioserver.handler.ServerHandler.onRead(ServerHandler.java:50) ServerChannel[SocketXMLTcpFront] received message
+[INFO] 2017-03-14 21:36:16 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:33) Server ReqMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?><CEReq><comm_head><ver_no>001</ver_no><bank_id>9999</bank_id><snd_chnl_no>29</snd_chnl_no><rcv_chnl_no>23</rcv_chnl_no><ext_txn_no></ext_txn_no><chnl_dt>20130722</chnl_dt><host_dt>20130722</host_dt><chnl_tm>010101</chnl_tm><host_tm>010102</host_tm><chnl_seq>000000000002</chnl_seq><host_seq>000000000001</host_seq><rsp_no>SUCCESS</rsp_no><rsp_msg>�ɹ���</rsp_msg></comm_head><version>10</version><xtype>10</xtype><xclass>1</xclass><pan>1111111111111111119</pan><Merchant><acqBIN>1</acqBIN><merID>1</merID><password>11111118</password><name>name</name><country>CNY</country></Merchant><array><Purchase><purchAmount>200000.00</purchAmount><currency>RMB</currency><exponent>1</exponent><trsFeeAmount></trsFeeAmount></Purchase></array></CEReq>]
+[INFO] 2017-03-14 21:36:17 com.bell.buss.services.TestService1.test(TestService1.java:15) 测试
+[INFO] 2017-03-14 21:36:17 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:74) Server RspMsg[101011111111111111111111#<?xml version="1.0" encoding="gb18030"?>
+       <CERes>
+	<comm_head>
+		<ver_no>001</ver_no>
+		<bank_id></bank_id>
+		<snd_chnl_no>29</snd_chnl_no>
+		<rcv_chnl_no>23</rcv_chnl_no>
+		<ext_txn_no/>
+		<chnl_dt>20130722</chnl_dt>
+		<host_dt>20130722</host_dt>
+		<chnl_tm>010101</chnl_tm>
+		<host_tm>010102</host_tm>
+		<chnl_seq>000000000002</chnl_seq>
+		<host_seq>000000000001</host_seq>
+		<rsp_no>SUCCESS</rsp_no>
+		<rsp_msg>sucess</rsp_msg>
+	</comm_head>
+	<version></version>
+	<rspcode>0000</rspcode>
+	<rspmsg>sucess</rspmsg>
+	<array>
+	    		<Purchase>
+			<purchAmount>200000.11</purchAmount>
+			<currency>RMB</currency>
+			<exponent>1</exponent>
+			<trsFeeAmount/>
+		</Purchase>
+				<Purchase>
+			<purchAmount>200000.11</purchAmount>
+			<currency>RMB</currency>
+			<exponent>1</exponent>
+			<trsFeeAmount/>
+		</Purchase>
+			</array>
+</CERes>
+	  ]
+[INFO] 2017-03-14 21:36:17 com.bell.microswitch.model.channel.base._ServerChannel.process(_ServerChannel.java:75) ServerChannel process success
+[INFO] 2017-03-14 21:36:17 com.bell.microswitch.nioserver.handler.ServerHandler.onWrite(ServerHandler.java:74) ServerChannel[SocketXMLTcpFront] send message sucess

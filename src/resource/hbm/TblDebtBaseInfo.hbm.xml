@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+	"-//Hibernate/Hibernate Mapping DTD//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+
+<hibernate-mapping package="com.tx.cmd.data">
+	<class name="TblDebtBaseInfo" table="TBL_DEBT_BASE_INFO">
+		<meta attribute="sync-DAO">true</meta>
+		<id name="id" type="string" column="ID">
+			<generator class="assigned" />
+		</id>
+
+		<property name="custcdSaller" column="CUSTCD_SALLER" type="string"
+			not-null="false" length="20" />
+		<property name="cnameBuyer" column="CNAME_BUYER" type="string"
+			not-null="false" length="50" />
+		<property name="custcdBuyer" column="CUSTCD_BUYER" type="string"
+			not-null="false" length="20" />
+		<property name="cnameSeller" column="CNAME_SELLER" type="string"
+			not-null="false" length="50" />
+		<property name="mastContno" column="MAST_CONTNO" type="string"
+			not-null="false" length="20" />
+		<property name="debetNo" column="DEBET_NO" type="string"
+			not-null="false" length="32" />
+		<property name="insertDate" column="INSERT_DATE" type="java.util.Date"
+			not-null="false" length="7" />
+		<property name="aging" column="AGING" type="string" not-null="false"
+			length="50" />
+		<property name="bussType" column="BUSS_TYPE" type="string"
+			not-null="false" length="10" />
+		<property name="billsNo" column="BILLS_NO" type="string"
+			not-null="false" length="100" />
+		<property name="billsType" column="BILLS_TYPE" type="string"
+			not-null="false" length="2" />
+		<property name="billsDate" column="BILLS_DATE" type="date"
+			not-null="false" length="7" />
+		<property name="debtEnd" column="DEBT_END" type="date"
+			not-null="false" length="7" />
+		<property name="billsAmount" column="BILLS_AMOUNT" type="big_decimal"
+			not-null="false" length="16" />
+		<property name="billsAmountView" column="BILLS_AMOUNT_VIEW"
+			type="big_decimal" not-null="false" length="16" />
+		<property name="remainingAmount" column="REMAINING_AMOUNT"
+			type="big_decimal" not-null="false" length="16" />
+		<property name="curcd" column="CURCD" type="string" not-null="false"
+			length="3" />
+		<property name="loanPercent" column="LOAN_PERCENT" type="big_decimal"
+			not-null="false" length="5" />
+		<property name="loanAmount" column="LOAN_AMOUNT" type="big_decimal"
+			not-null="false" length="16" />
+		<property name="purchaseDate" column="PURCHASE_DATE" type="date"
+			not-null="false" length="7" />
+		<property name="loanRemainingAmount" column="LOAN_REMAINING_AMOUNT"
+			type="big_decimal" not-null="false" length="16" />
+		<property name="remainingUseableAmount" column="REMAINING_USEABLE_AMOUNT"
+			type="big_decimal" not-null="false" length="16" />
+		<property name="rateCollectAmount" column="RATE_COLLECT_AMOUNT"
+			type="big_decimal" not-null="false" length="16" />
+		<property name="ownRateCollectAmount" column="OWN_RATE_COLLECT_AMOUNT"
+			type="big_decimal" not-null="false" length="16" />
+		<property name="loanEndDate" column="LOAN_END_DATE" type="date"
+			not-null="false" length="7" />
+		<property name="assurePercent" column="ASSURE_PERCENT" type="big_decimal"
+			not-null="false" length="5" />
+		<property name="assurePayDate" column="ASSURE_PAY_DATE" type="date"
+			not-null="false" length="7" />
+		<property name="rebateAmount" column="REBATE_AMOUNT" type="big_decimal"
+			not-null="false" length="16" />
+		<property name="buyBackAmount" column="BUY_BACK_AMOUNT" type="big_decimal"
+			not-null="false" length="16" />
+		<property name="payAmount" column="PAY_AMOUNT" type="big_decimal"
+			not-null="false" length="16" />
+		<property name="removeAmount" column="REMOVE_AMOUNT" type="big_decimal"
+			not-null="false" length="16" />
+		<property name="cashRemainingAmount" column="CASH_REMAINING_AMOUNT"
+			type="big_decimal" not-null="false" length="16" />
+		<property name="flawFlag" column="FLAW_FLAG" type="string"
+			not-null="false" length="1" />
+		<property name="flawReason" column="FLAW_REASON" type="string"
+			not-null="false" length="100" />
+		<property name="issueFlag" column="ISSUE_FLAG" type="string"
+			not-null="false" length="1" />
+		<property name="issueReason" column="ISSUE_REASON" type="string"
+			not-null="false" length="100" />
+		<property name="overdueFlag" column="OVERDUE_FLAG" type="string"
+			not-null="false" length="1" />
+		<property name="overdueReason" column="OVERDUE_REASON" type="string"
+			not-null="false" length="100" />
+		<property name="badFlag" column="BAD_FLAG" type="string"
+			not-null="false" length="1" />
+		<property name="badReason" column="BAD_REASON" type="string"
+			not-null="false" length="100" />
+		<property name="poolFlag" column="POOL_FLAG" type="string"
+			not-null="false" length="100" />
+		<property name="overdueAmount" column="OVERDUE_AMOUNT" type="big_decimal"
+			not-null="false" length="16" />
+		<property name="pledgeStatus" column="PLEDGE_STATUS" type="string"
+			not-null="false" length="2" />
+		<property name="overdueStatus" column="OVERDUE_STATUS" type="string"
+			not-null="false" length="2" />
+		<property name="status" column="STATUS" type="string"
+			not-null="false" length="2" />
+		<property name="returnStatus" column="RETURN_STATUS" type="string"
+			not-null="false" length="2" />
+		<property name="pledgeActiveDate" column="PLEDGE_ACTIVE_DATE"
+			type="date" not-null="false" length="7" />
+		<property name="unpledgeActiveDate" column="UNPLEDGE_ACTIVE_DATE"
+			type="date" not-null="false" length="7" />
+		<property name="memo" column="MEMO" type="string" not-null="false"
+			length="50" />
+		<property name="pressCount" column="PRESS_COUNT" type="integer"
+			not-null="false" length="20" />
+		<property name="warnCount" column="WARN_COUNT" type="integer"
+			not-null="false" length="20" />
+		<property name="billsPeriod" column="BILLS_PERIOD" type="string"
+			not-null="false" length="2" />
+		<property name="beginDate" column="BEGIN_DATE" type="date"
+			not-null="false" length="7" />
+		<property name="endDate" column="END_DATE" type="date"
+			not-null="false" length="7" />
+		<property name="paydate" column="PAYDATE" type="date"
+			not-null="false" length="7" />
+		<property name="loanOverdueFlag" column="LOAN_OVERDUE_FLAG"
+			type="string" not-null="false" length="1" />
+
+		<property name="deleteReason" column="DELETE_REASON" type="string"
+			not-null="false" length="100" />
+		<property name="otherReason" column="OTHER_REASON" type="string"
+			not-null="false" length="100" />
+		<property name="reason" column="REASON" type="string"
+			not-null="false" length="100" />
+		<property name="bailAmount" column="BAIL_AMOUNT" type="big_decimal"
+			not-null="false" length="16" />
+		<property name="addBailAmount" column="ADD_BAIL_AMOUNT" type="big_decimal"
+			not-null="false" length="16" />
+		<property name="isLocked" column="IS_LOCKED" type="string"
+			not-null="false" length="10" />
+		<property name="lockAppno" column="LOCK_APPNO" type="string"
+			not-null="false" length="20" />
+		<property name="factType" column="FACT_TYPE" type="string"
+			not-null="false" length="1" />
+		<property name="loanWay" column="LOAN_WAY" type="string"
+			not-null="false" length="2" />
+		<property name="deadLine" column="DEADLINE" type="date"
+			not-null="false" length="7" />
+		<property name="bussContcode" column="BUSS_CONTCODE" type="string"
+			not-null="false" length="50" />
+		<property name="gracePeriod" column="GRACE_PERIOD" type="int"
+			not-null="false" length="16" />
+		<property name="claimStatus" column="CLAIM_STATUS" type="string"
+			not-null="false" length="1" />
+		<property name="confirmDate" column="CONFIRM_DATE" type="date"
+			not-null="false" length="7" />
+			
+		<property name="ebankAppno" column="EBANK_APPNO" type="string"
+			not-null="false" length="50" />
+			
+		<property name="channelFlag" column="CHANNEL_FLAG" type="string"
+			not-null="false" length="1" />
+			
+		<property name="issueTimes" column="ISSUE_TIMES" type="integer"
+			not-null="false" length="20" />
+		<property name="isPay" column="IS_PAY" type="string"
+			not-null="false" length="20" />
+		<property name="creditNo" column="CREDIT_NO" type="string"
+			not-null="false" length="20" />
+			
+		<property name="bussContAmt" column="BUSS_CONT_AMT" type="big_decimal"
+			not-null="false" length="16" />
+		<property name="bussPayAmt" column="BUSS_PAY_AMT" type="big_decimal"
+			not-null="false" length="16" />
+	</class>
+</hibernate-mapping>

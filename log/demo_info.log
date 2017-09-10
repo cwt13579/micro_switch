@@ -1,0 +1,11 @@
+[INFO] 2017-09-10 17:18:52 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:15) ***********Path Util init**************
+[INFO] 2017-09-10 17:18:52 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:17) ***********BufferFactory parse**************
+[INFO] 2017-09-10 17:18:54 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:19) ***********ChannelFactory parse**************
+[INFO] 2017-09-10 17:18:54 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:21) ***********ClientChannelFactory parse**************
+[INFO] 2017-09-10 17:18:54 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:23) ***********ClientFactory parse**************
+[INFO] 2017-09-10 17:18:54 com.bell.microswitch.ctl.GeneratorControl.init(GeneratorControl.java:25) ***********ServerFactory parse**************
+[INFO] 2017-09-10 17:18:54 com.bell.microswitch.ctl.GeneratorControl.start(GeneratorControl.java:29) ***********Server Channel Start**************
+[INFO] 2017-09-10 17:18:54 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:49) 服务开启中
+[INFO] 2017-09-10 17:18:55 com.bell.microswitch.model.channel.SocketServerChannel.start(SocketServerChannel.java:58) 服务开启完成
+[INFO] 2017-09-10 17:18:55 com.bell.microswitch.nioserver.Server.run(Server.java:79) Server started ...
+[INFO] 2017-09-10 17:18:55 com.bell.microswitch.nioserver.Server.run(Server.java:80) Server listening on port: 8081
